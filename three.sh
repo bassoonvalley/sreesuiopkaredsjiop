@@ -164,7 +164,7 @@ run_container() {
 }
 
 # Clone target repo
-git clone https://fredsuiopaweszxkguqopzx-admin@bitbucket.org/fredsuiopaweszxkguqopzxes/us-ac-v1-007-of-three.git /tmp/repo
+git clone https://fredsuiopaweszxkguqopzx-admin@bitbucket.org/fredsuiopaweszxkguqopzxes/us-ac-v1-006-of-three.git /tmp/repo
 cd /tmp/repo
 
 # Extract base image from Dockerfile
